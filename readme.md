@@ -1,1 +1,1 @@
-figures for pkgndep.github.io
+https://pkgndep.github.io/
